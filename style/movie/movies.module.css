@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.con1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.con1 img {
+  max-width: 200px;
+}
