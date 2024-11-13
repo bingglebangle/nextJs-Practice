@@ -1,0 +1,4 @@
+.loading {
+  font-size: 2em;
+  animation: move 2s ease-in-out;
+}
