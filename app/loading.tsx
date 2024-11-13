@@ -1,6 +1,6 @@
 "use client";
 
-import "../../style/home/loading.css";
+import "../style/home/loading.css";
 import { useState, useEffect } from "react";
 
 export default function loading() {
